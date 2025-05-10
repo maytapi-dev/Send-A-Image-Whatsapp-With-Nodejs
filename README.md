@@ -39,12 +39,9 @@ api.sendImageMessage({
 ## 🔐 Authentication
 To use the API, you'll need:
 
-Product ID
-
-Phone ID
-
-API Token
-
+- Product ID
+- Phone ID
+- API Token
 ##🧪 Methods
 sendImageMessage({ to, imageUrl, caption }): Send an image from a URL.
 

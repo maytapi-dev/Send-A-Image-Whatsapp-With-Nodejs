@@ -9,6 +9,16 @@ Easily send image messages via WhatsApp using Maytapi's powerful API.
 - Include optional captions
 - Handles API errors gracefully
 
+## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
+
 ## 📦 Installation
 
 ```bash
@@ -36,6 +46,7 @@ api.sendImageMessage({
   console.error("Error:", error);
 });
 ```
+
 ## 🔐 Authentication
 To use the API, you'll need:
 
